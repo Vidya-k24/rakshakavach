@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">raksha kavach</string>
+    <string name="title_activity_main">raksha kavach</string>
+    <string name="package_name">com.rakshakavach.app</string>
+    <string name="custom_url_scheme">com.rakshakavach.app</string>
+</resources>
